@@ -16,7 +16,7 @@ This is a simple console-based implementation of the classic Tic-Tac-Toe game. T
 Python 3.x
 
 ## How to Run
-- Clone the repository:               git clone https://github.com/your-username/tic-tac-toe.git
+- Clone the repository:               git clone git@github.com:ahmdhlm/Tic_Tac.git
 - Navigate to the project directory:  cd tic-tac-toe
 - Run the game:                       python tic_tac_toe.py
 - Follow the on-screen instructions to play the game.
