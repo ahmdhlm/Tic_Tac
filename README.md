@@ -16,12 +16,9 @@ This is a simple console-based implementation of the classic Tic-Tac-Toe game. T
 Python 3.x
 
 ## How to Run
-- Clone the repository:
--- git clone https://github.com/your-username/tic-tac-toe.git
-- Navigate to the project directory:
--- cd tic-tac-toe
-- Run the game:
--- python tic_tac_toe.py
+- Clone the repository:               git clone https://github.com/your-username/tic-tac-toe.git
+- Navigate to the project directory:  cd tic-tac-toe
+- Run the game:                       python tic_tac_toe.py
 - Follow the on-screen instructions to play the game.
 
 ## How to Play
@@ -29,7 +26,7 @@ Python 3.x
 2. Players take turns choosing a position on the board by entering the number of the cell they wish to place their symbol in.
 3. The game will announce the winner if a player successfully lines up three of their symbols in a row, column, or diagonal.
 4. If all cells are filled and no player has won, the game will declare a draw.
-5.Players can choose to start a new game or quit after each match.
+5. Players can choose to start a new game or quit after each match.
 
 ##Project Structure
 tic-tac-toe/
